@@ -4,7 +4,7 @@ Our project is implemented in Pyretic, which is a Python based language. We work
 #The Topology
 Here is the topology on which our specific controller runs:
 
-![Topology](http://imgur.com/JNqP7NL)
+![Topology](https://github.com/Udayan12167/pyretic_controller/blob/master/CSE5SDN_Project.jpg)
 
 #Routing
 The routing for the whole topology is done by a simple mac learning controller application which is included in the pyretic package itself. 
